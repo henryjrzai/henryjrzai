@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Henry Zai
 
+![Saweria](https://saweria.co/widgets/qr?streamKey=534d29cebfbef2470a5a43c72a782de8)
+
 <!--
 **henryjrzai/henryjrzai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
