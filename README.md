@@ -10,7 +10,15 @@
 
 ### Technology
 ![Android](https://img.shields.io/badge/-Android-000?&logo=Android)
-![Jetpack Compose](https://img.shields.io/badge/-jetpack-000?&logo=jetpack)
+![NodeJS](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+
+### Framework & Library
+![Jetpack Compose](https://img.shields.io/badge/-JetpackCompose-000?&logo=JetpackCompose)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
+![Tailwind](https://img.shields.io/badge/-Tailwindcss-000?&logo=Tailwindcss)
 <!--
 **henryjrzai/henryjrzai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
