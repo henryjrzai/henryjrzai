@@ -5,6 +5,7 @@
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
+![Php](https://img.shields.io/badge/-Php-000?&logo=Php)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 <!--
 **henryjrzai/henryjrzai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
