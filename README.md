@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Henry Zai
-
+![](https://github.com/henryjrzai/henryjrzai/blob/main/header_.png)
 <!--
 **henryjrzai/henryjrzai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
