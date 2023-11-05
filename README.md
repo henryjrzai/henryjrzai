@@ -7,6 +7,10 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
 ![Php](https://img.shields.io/badge/-Php-000?&logo=Php)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+
+### Technology
+![Android](https://img.shields.io/badge/-Android-000?&logo=Android)
+![Jetpack Compose](https://img.shields.io/badge/-jetpack-000?&logo=jetpack)
 <!--
 **henryjrzai/henryjrzai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
