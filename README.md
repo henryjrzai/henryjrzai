@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Henry Zai
+# Hi Folks, 👋 I'm Henry Zai
 ![](https://github.com/henryjrzai/henryjrzai/blob/main/header_.png)
 
 ## Tech Stack
@@ -7,6 +7,7 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
 ![Php](https://img.shields.io/badge/-Php-000?&logo=Php)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 
 ### Technology
 ![Android](https://img.shields.io/badge/-Android-000?&logo=Android)
@@ -19,6 +20,8 @@
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
 ![Tailwind](https://img.shields.io/badge/-Tailwindcss-000?&logo=Tailwindcss)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
 <!--
 **henryjrzai/henryjrzai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
