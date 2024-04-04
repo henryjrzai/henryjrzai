@@ -21,7 +21,6 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
 ![Tailwind](https://img.shields.io/badge/-Tailwindcss-000?&logo=Tailwindcss)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
-![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
 <!--
 **henryjrzai/henryjrzai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
