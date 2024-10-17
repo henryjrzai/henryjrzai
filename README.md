@@ -19,6 +19,7 @@
 ![NodeJS](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![Supabase](https://img.shields.io/badge/-Supabase-000?&logo=Supabase)
 
 ### Framework & Library
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
