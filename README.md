@@ -24,11 +24,12 @@
 ### Framework & Library
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
+![Codeigniter](https://img.shields.io/badge/-Laravel-000?&logo=Codeigniter)
 ![ExpressJS](https://img.shields.io/badge/-Express-000?&logo=Express)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
 ![Tailwind](https://img.shields.io/badge/-Tailwindcss-000?&logo=Tailwindcss)
 ![Jetpack Compose](https://img.shields.io/badge/-JetpackCompose-000?&logo=JetpackCompose)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+![Scikit-Learn](https://img.shields.io/badge/-TensorFlow-000?&logo=scikit-learn)
 <!--
 **henryjrzai/henryjrzai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
